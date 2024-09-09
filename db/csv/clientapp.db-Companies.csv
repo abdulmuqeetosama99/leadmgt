@@ -1,0 +1,30 @@
+﻿ID,companyname,contactname,contacttitle,companyaddress,city,region,postalcode,country,projects,budget
+1,Exotic Liquids,Charlotte Cooper,Purchasing Manager,49 Gilbert St.,London,null,EC1 4SD,UK,1,500
+2,New Orleans Cajun Delights,Shelley Burke,Order Administrator,P.O. Box 78934,New Orleans,LA ,70117,USA,1,800
+3,Grandma Kelly's Homestead,Regina Murphy,Sales Representative,707 Oxford Rd.,Ann Arbor,MI ,48104,USA,2,1500
+4,Tokyo Traders,Yoshi Nagase,Marketing Manager,9-8 Sekimai Musashino-shi,Tokyo,null ,100,Japan,1,200
+5,Cooperativa de Quesos 'Las Cabras',Antonio del Valle Saavedra,Export Administrator,Calle del Rosal 4,Oviedo,Asturias ,33007,Spain,1,300
+6,Mayumi's,Mayumi Ohno,Marketing Representative,92 Setsuko Chuo-ku,Osaka,null ,545,Japan,3,2000
+7,Pavlova Ltd.,Ian Devling,Marketing Manager,74 Rose St. Moonie Ponds,Melbourne,Victoria ,3058,Australia,1,750
+8,Specialty Biscuits Ltd.,Peter Wilson,Sales Representative,29 King's Way,Manchester,null,M14 GSD,UK,2,900
+9,PB Kn�ckebr�d AB,Lars Peterson,Sales Agent,Kaloadagatan 13,G�teborg,null,S-345 67,Sweden,1,100
+10,Refrescos Americanas LTDA,Carlos Diaz,Marketing Manager,Av. das Americanas 12.890,Sao Paulo,null ,5442,Brazil,1,400
+11,Heli S��waren GmbH & Co. KG,Petra Winkler,Sales Manager,Tiergartenstra�e 5,Berlin,null ,10785,Germany,4,1500
+12,Plutzer Lebensmittelgro�m�rkte AG,Martin Bein,International Marketing Mgr.,Bogenallee 51,Frankfurt,null ,60439,Germany,1,1000
+13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,Coordinator Foreign Markets,Frahmredder 112a,Cuxhaven,null ,27478,Germany,1,500
+14,Formaggi Fortini s.r.l.,Elio Rossi,Sales Representative,Viale Dante75,Ravenna,null ,48100,Italy,1,200
+15,Norske Meierier,Beate Vileid,Marketing Manager,Hatlevegen 5,Sandvika,null ,1320,Norway,1,900
+16,Bigfoot Breweries,Cheryl Saylor,Regional Account Rep.,3400 - 8th Avenue Suite 210,Bend,OR ,97101,USA,1,1500
+17,Svensk Sj�f�da AB,Michael Bj�rn,Sales Representative,Brovallav�gen 231,Stockholm,null,S-123 45,Sweden,2,500
+18,Aux joyeux eccl�siastiques,Guyl�ne Nodier,Sales Manager,203 Rue des Francs-Bourgeois,Paris,null ,75004,France,5,500
+19,New England Seafood Cannery,Robb Merchant,Wholesale Account Agent,Order Processing Dept. 2100 Paul Revere Blvd.,Boston,MA ,2134,USA,1,1200
+20,Leka Trading,Chandra Leka,Owner,471 Serangoon Loop Suite #402,Singapore,null ,512,Singapore,2,1500
+21,Lyngbysild,Niels Petersen,Sales Manager,Lyngbysild Fiskebakken 10,Lyngby,null ,2800,Denmark,1,500
+22,Zaanse Snoepfabriek,Dirk Luchte,Accounting Manager,Verkoop Rijnweg 22,Zaandam,null,9999 ZZ,Netherlands,12,5000
+23,Karkki Oy,Anne Heikkonen,Product Manager,Valtakatu 12,Lappeenranta,null ,53120,Finland,1,1500
+24,G'day Mate,Wendy Mackenzie,Sales Representative,170 Prince Edward Parade Hunter's Hill,Sydney,NSW ,2042,Australia,10,5600
+25,Ma Maison,Jean-Guy Lauzon,Marketing Manager,2960 Rue St. Laurent,Montr�al,Qu�bec,H1J 1C3,Canada,8,5100
+26,Pasta Buttini s.r.l.,Giovanni Giudici,Order Administrator,Via dei Gelsomini 153,Salerno,null ,84100,Italy,5,500
+27,Escargots Nouveaux,Marie Delamare,Sales Manager,22 rue H. Voiron,Montceau,null ,71300,France,2,1500
+28,Gai p�turage,Eliane Noz,Sales Representative,Bat. B 3 rue des Alpes,Annecy,null ,74000,France,3,2000
+29,For�ts d'�rables,Chantal Goulet,Accounting Manager,148 rue Chasseur,Ste-Hyacinthe,Qu�bec,J2S 7S8,Canada,6,15000
